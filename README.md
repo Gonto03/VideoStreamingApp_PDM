@@ -1,4 +1,3 @@
-# VideoStreamingApp_PDM
-## Programação de Dispositivos Móveis
-### Enhanced Netflix
-### Gonçalo Dias & Tomás Fontes
+# VideoStreamingApp_PDM - Enhanced Netflix
+Programação de Dispositivos Móveis
+Gonçalo Dias & Tomás Fontes
